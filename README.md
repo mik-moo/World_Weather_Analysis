@@ -4,7 +4,7 @@ Module 6
 
 ## Overview
 
-For this project, users will input weather preferences to find potential vacation spots and nearby hotels. From the generated list, the user will input 4 cities to create a travel itinerary.  
+For this project, users will input weather preferences to find potential vacation spots and nearby hotels. From the generated list, the user will input four cities to create a travel itinerary.  
 
 ### How it works
 
